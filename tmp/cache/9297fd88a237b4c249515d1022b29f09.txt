@@ -1,0 +1,65 @@
+a:2:{s:4:"data";s:1472:"<li>
+    <a href="category/men">Men</a>
+            <ul>
+            <li>
+    <a href="category/elektronnye">Электронные</a>
+            <ul>
+            <li>
+    <a href="category/casio">Casio</a>
+    </li>
+<li>
+    <a href="category/citizen">Citizen</a>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/mehanicheskie">Механические</a>
+            <ul>
+            <li>
+    <a href="category/royal-london">Royal London</a>
+    </li>
+<li>
+    <a href="category/seiko">Seiko</a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/women">Women</a>
+            <ul>
+            <li>
+    <a href="category/elektronnye-11">Электронные</a>
+            <ul>
+            <li>
+    <a href="category/adriatica">Adriatica</a>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/mehanicheskie-12">Механические</a>
+            <ul>
+            <li>
+    <a href="category/anne-klein">Anne Klein</a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/kids">Kids</a>
+    </li>
+<li>
+    <a href="category/do">До</a>
+            <ul>
+            <li>
+    <a href="category/dochernyaya-22">Дочерняя 22</a>
+            <ul>
+            <li>
+    <a href="category/testovaya-kategoriya">Тестовая категория</a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+";s:8:"end_time";i:1694639054;}
